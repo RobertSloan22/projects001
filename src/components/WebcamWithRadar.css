@@ -1,0 +1,15 @@
+.webcam-with-radar {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .webcam-display {
+    position: relative;
+  }
+  
+  .radar-display {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
